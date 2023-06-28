@@ -19,7 +19,7 @@ Testmo test management software - https://www.testmo.com/
         </testsuite>
         <testcase name="testCase7" classname="Tests.Authentication" time="2.508" />
         <testcase name="testCase8" classname="Tests.Authentication" time="1.230816" />
-        <testcase name="testCase9" classname="Tests.Authentication" time="1.051">
+        <testcase name="testCase9" classname="Tests.Authentication" time="0.982">
             <failure message="Assertion error message" type="AssertionError">
                 <!-- Call stack printed here -->
             </failure>
